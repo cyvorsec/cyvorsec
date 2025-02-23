@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Cyber Security on TryHackMe Academy
 - 💞️ I’m looking to collaborate on Cyber Security projects
 - 📫 You can reach me on Instagram: https://www.instagram.com/cyv0rs3c
+- 📫 You can reach me on YouTube: https://www.youtube.com/@cyvorsec
 
 <!---
 cyvorsec/cyvorsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
